@@ -1,6 +1,3 @@
-This is a Kotlin Multiplatform project targeting Server.
+This is a sample Kotlin Multiplatform project which reproduces issue with ktro-docs-plugin:
 
-* `/server` is for the Ktor server application.
-
-
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+https://github.com/tabilzad/ktor-docs-plugin/issues/32
